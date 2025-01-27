@@ -1,1 +1,1 @@
-# Movie search app using React, TypeScript and Vite
+# Pizza menu section using REACT, Vite and typescript
